@@ -84,3 +84,16 @@ console.log(newFruits);
  console.log(fruits.indexOf('🍎'));
  console.log(fruits.lastIndexOf('🍎'));
 
+{
+    const fruits = ['apple', 'banana', 'orange'];
+    const result = fruits.join(',');
+    console.log(result);
+}
+
+//Q2. make an array out of a string
+{
+    const fruits = '/사과, /키위, /바나나, /체리';
+    const result = fruits.split(',');
+    console.log(result);
+}
+
