@@ -49,10 +49,10 @@ console.log('태어나고 ${interval}일 지났습니다.');
 
 //배열을 선언합니다.
 let array = [{
-    name: '고구마'
+    name: '고구마',
     price: 1000
 }, {
-    name: '바나나',
+    name: '감자',
     price: 500
 }, {
     name: '바나나',
